@@ -1,5 +1,11 @@
 # Docker images for Bachelor/Master courses and training workshops
 
+⚠️ ⚠️ ⚠️  
+Due to changes in Docker policy, a subscription is necessary to build Docker images on DockerHub infrastructure. An individual personal subscription was taken [see prices](https://www.docker.com/pricing) and this repository moved to [https://github.com/mgalland/docker-for-teaching](https://github.com/mgalland/docker-for-teaching).     
+
+This repository is now archived 💾 Go to [https://github.com/mgalland/docker-for-teaching](https://github.com/mgalland/docker-for-teaching) for up-to-date Docker files and images.
+⚠️ ⚠️ ⚠️
+
 These Docker files are used to build computational environments to teach students or train employees. For instance, these are used in:  
 * the Master Green Life Sciences. For the course entitled "Tools in Molecular Biology" 
 * the Carpentry-style courses "RNA-seq" and "shotgun-microbiome". 
